@@ -1,0 +1,2 @@
+# The-Artificial-Intelligence-Project-Processing-Audio-Signals-with-Deep-Learning
+This project processes audio signals using deep learning techniques, particularly with Mel-Frequency Cepstral Coefficients (MFCCs). It utilizes the Urban8K dataset for this purpose. MFCCs are feature vectors commonly employed to represent the characteristics of sound, often used in applications such as speech or audio recognition.
